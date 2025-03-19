@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Josebean/cookie-quiz/static/css/main.c6bcfc85.css",
+    "main.js": "/Josebean/cookie-quiz/static/js/main.5fa10dcd.js",
+    "static/js/453.389d12b4.chunk.js": "/Josebean/cookie-quiz/static/js/453.389d12b4.chunk.js",
+    "static/media/DotGothic16-Regular.ttf": "/Josebean/cookie-quiz/static/media/DotGothic16-Regular.e127e2d7fcff699d4a1a.ttf",
+    "index.html": "/Josebean/cookie-quiz/index.html",
+    "main.c6bcfc85.css.map": "/Josebean/cookie-quiz/static/css/main.c6bcfc85.css.map",
+    "main.5fa10dcd.js.map": "/Josebean/cookie-quiz/static/js/main.5fa10dcd.js.map",
+    "453.389d12b4.chunk.js.map": "/Josebean/cookie-quiz/static/js/453.389d12b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6bcfc85.css",
+    "static/js/main.5fa10dcd.js"
+  ]
+}
