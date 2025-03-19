@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: "DotGothic";
 }
 
 .App-logo {
@@ -35,4 +36,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+@font-face {
+  font-family: "DotGothic";
+  src: url("./assets/DotGothic16/DotGothic16-Regular.ttf");
 }
