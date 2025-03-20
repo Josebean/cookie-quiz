@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+html {
+  cursor: url('./assets/matcha-cookie.svg'),default;
+}
+
+button:hover {
+  cursor: url('./assets/matcha-cookie.svg'),default;
+}
+
+button {
+  cursor: url('./assets/matcha-cookie.svg'),default;
+}
+
