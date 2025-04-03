@@ -42,3 +42,32 @@
   font-family: "DotGothic";
   src: url("./assets/DotGothic16/DotGothic16-Regular.ttf");
 }
+ 
+.main-button {
+  background-color: #4E4187;
+  padding: 15px 20px;
+  border-radius: 25px;
+  border: none;
+  font-size: 18px;
+  font-family: "DotGothic";
+  font-weight: 500;
+  color: #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 30%;
+  min-width: 320px;
+  margin-bottom: 10px;
+
+}
+
+.answers-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+}
+
+.quiz-container {
+
+}

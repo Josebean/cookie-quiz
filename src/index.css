@@ -13,7 +13,8 @@ code {
 }
 
 html {
-  cursor: url('./assets/matcha-cookie.svg'),default;
+  cursor: url('./assets/matcha-cookie.svg'),default; 
+  background-color: #FCF6B1;
 }
 
 button:hover {

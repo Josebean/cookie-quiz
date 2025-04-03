@@ -3,7 +3,7 @@ function StartScreen({onStart}) {
         <div>
             <h1>Which Cookie Are You?</h1>
 
-            <button className="btn btn-primary" onClick={onStart}>Start</button>
+            <button className="main-button" onClick={onStart}>Start</button>
         </div>
     )
 }

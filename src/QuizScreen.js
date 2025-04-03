@@ -141,19 +141,19 @@ function QuizScreen() {
     
 
     return (
-        <div>
+        <div className="quiz-container">
           {quizFinished ? (
             <div>
               <h2>Quiz Finished!</h2>
               <p>Your score: </p>
-              <button onClick={restartQuiz}>Restart Quiz</button>
+              <button className="main-button" onClick={restartQuiz}>Restart Quiz</button>
             </div>
           ) : (
             <div>
               <h2>{questions[currentQuestion].question}</h2>
-              <div>
+              <div className="answers-container">
                 {questions[currentQuestion].answers.map((answer) => (
-                  <button
+                  <button className="main-button"
                     key={answer.id}
                     onClick={() => handleAnswer(answer)}
                     
