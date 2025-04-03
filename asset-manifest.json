@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/cookie-quiz/static/css/main.55e5c408.css",
-    "main.js": "/cookie-quiz/static/js/main.48142aba.js",
+    "main.css": "/cookie-quiz/static/css/main.24a74fad.css",
+    "main.js": "/cookie-quiz/static/js/main.210e5c2b.js",
     "static/js/453.389d12b4.chunk.js": "/cookie-quiz/static/js/453.389d12b4.chunk.js",
     "static/media/DotGothic16-Regular.ttf": "/cookie-quiz/static/media/DotGothic16-Regular.e127e2d7fcff699d4a1a.ttf",
+    "static/media/matcha-cookie.svg": "/cookie-quiz/static/media/matcha-cookie.75198fb80751b91ec65f.svg",
     "index.html": "/cookie-quiz/index.html",
-    "main.55e5c408.css.map": "/cookie-quiz/static/css/main.55e5c408.css.map",
-    "main.48142aba.js.map": "/cookie-quiz/static/js/main.48142aba.js.map",
+    "main.24a74fad.css.map": "/cookie-quiz/static/css/main.24a74fad.css.map",
+    "main.210e5c2b.js.map": "/cookie-quiz/static/js/main.210e5c2b.js.map",
     "453.389d12b4.chunk.js.map": "/cookie-quiz/static/js/453.389d12b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55e5c408.css",
-    "static/js/main.48142aba.js"
+    "static/css/main.24a74fad.css",
+    "static/js/main.210e5c2b.js"
   ]
 }
